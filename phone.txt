@@ -1,1 +1,4 @@
 feature phone
+
+Scratchless
+Gorilla Glass
